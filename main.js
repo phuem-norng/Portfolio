@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Load featured projects
     const featuredProjectsContainer = document.getElementById('featured-projects');
     if (featuredProjectsContainer) {
-        fetch('data/projects.json')
+        fetch('projects.json')
             .then(response => response.json())
             .then(projects => {
                 // Filter featured projects
@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Load all projects for projects page
     const projectsGrid = document.getElementById('projects-grid');
     if (projectsGrid) {
-        fetch('data/projects.json')
+        fetch('projects.json')
             .then(response => response.json())
             .then(projects => {
                 projects.forEach(project => {
@@ -216,4 +216,5 @@ document.addEventListener('DOMContentLoaded', function() {
             document.body.style.overflow = 'auto';
         }
     }
+
 });
