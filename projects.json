@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Brand Identity Design",
         "category": "branding",
-        "image": "assets/images/project1.png",
+        "image": "project1.png",
         "shortDescription": "A complete brand identity system including logo, typography, and color palette.",
         "description": "This branding project focused on creating a strong and memorable identity for a startup. It included logo design, typography guidelines, color system, and brand usage rules to ensure consistency across all platforms.",
         "technologies": ["Adobe Illustrator", "Photoshop", "InDesign"],
@@ -15,7 +15,7 @@
         "id": 2,
         "title": "E-Commerce Website UI/UX",
         "category": "ui",
-        "image": "assets/images/project2.png",
+        "image": "project2.png",
         "shortDescription": "A modern and user-friendly UI design for an e-commerce platform.",
         "description": "Designed a clean and engaging shopping experience with intuitive navigation, product filters, and responsive layouts. The focus was on usability and visual hierarchy to drive conversions.",
         "technologies": ["Figma", "Adobe XD"],
@@ -27,7 +27,7 @@
         "id": 3,
         "title": "Creative Portfolio Website",
         "category": "web",
-        "image": "assets/images/project1.gif",
+        "image": "project1.gif",
         "shortDescription": "A portfolio website designed to showcase creative works and projects.",
         "description": "This portfolio design emphasizes storytelling and minimal design principles. It features interactive galleries, smooth transitions, and an elegant layout tailored for designers and artists.",
         "technologies": ["Figma", "Adobe XD"],
@@ -39,7 +39,7 @@
         "id": 4,
         "title": "Mobile Banking App UI",
         "category": "mobile",
-        "image": "assets/images/project4.png",
+        "image": "project4.png",
         "shortDescription": "A sleek and modern mobile app design for digital banking.",
         "description": "The mobile banking app focuses on a secure yet user-friendly experience. Features include account overview, quick transfers, and payment tracking. The UI was designed with simplicity and trust in mind.",
         "technologies": ["Figma", "Sketch"],
@@ -51,7 +51,7 @@
         "id": 5,
         "title": "Illustration Collection",
         "category": "illustration",
-        "image": "assets/images/project5.png",
+        "image": "project5.png",
         "shortDescription": "A series of digital illustrations exploring modern lifestyle themes.",
         "description": "This collection includes over 20 illustrations created for marketing campaigns, editorial content, and digital products. Each piece was designed to convey emotion, storytelling, and vibrant aesthetics.",
         "technologies": ["Procreate", "Adobe Illustrator"],
@@ -63,7 +63,7 @@
         "id": 6,
         "title": "UI Kit for Designers",
         "category": "ui",
-        "image": "assets/images/project6.png",
+        "image": "project6.png",
         "shortDescription": "A comprehensive UI kit with reusable components for web and mobile projects.",
         "description": "The UI Kit contains 80+ customizable components including buttons, forms, modals, and navigation elements. Built with accessibility and scalability in mind, it helps designers speed up the design process.",
         "technologies": ["Figma", "Adobe XD"],
@@ -72,3 +72,4 @@
         "featured": false
     }
 ]
+
