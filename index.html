@@ -1153,12 +1153,6 @@
             ];
             
             const projectsGrid = document.getElementById('featured-projects');
-            if (filterButtons.length && projectsGrid) {
-        // Load projects from JSON file
-        fetch('projects.json')
-            .then(response => response.json())
-            .then(projects => {
-                renderProjects(projects);
                 
             if (projectsGrid) {
                 projectsGrid.innerHTML = featuredProjects.map(project => `
@@ -1180,6 +1174,7 @@
 </body>
 
 </html>
+
 
 
 
